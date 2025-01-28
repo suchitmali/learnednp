@@ -8,12 +8,12 @@ const Gallery = () => {
     { id: 1, src: "/src/assets/images/img-1.JPG", title: "At Markhu" },
     { id: 2, src: "/src/assets/images/landing-page.jpg", title: "At Beni" },
     { id: 3, src: "/src/assets/images/calculator-app.JPG", title: "Dancing" },
-    { id: 4, src: "/src/assets/images/img-9.JPG", title: "Tutoring" },
-    { id: 5, src: "/src/assets/images/react.jpg", title: "Learning Computer" },
+    { id: 4, src: "/src/assets/images/img-9.jpg", title: "Tutoring" },
+    { id: 5, src: "/src/assets/images/react.JPG", title: "Learning Computer" },
     { id: 6, src: "/src/assets/images/img-20.JPG", title: "Window of Change" },
     { id: 7, src: "/src/assets/images/about-img-4.JPG", title: "Playing" },
-    { id: 8, src: "/src/assets/images/img-12.JPG", title: "Assembly" },
-    { id: 9, src: "/src/assets/images/img-8.JPG", title: "Smiles" }
+    { id: 8, src: "/src/assets/images/img-12.jpg", title: "Assembly" },
+    { id: 9, src: "/src/assets/images/img-8.jpg", title: "Smiles" }
   ];
 
   const visibleImages = showAll ? allImages : allImages.slice(0, 6);
