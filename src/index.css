@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+  .menuUnderline{
+    @apply relative after:absolute after:bg-white after:bottom-0 after:left-0 after:h-[2px] after:w-0 after:transition-all after:duration-300 hover:after:w-full hover:font-semibold;
+  }
+  .mobileHover{
+    @apply w-full px-10 hover:font-semibold ;
+  }
+  .pagePadding{
+    @apply max-w-7xl mx-auto my-6 sm:my-8 md:my-14 px-4 sm:px-6 md:px-8 py-12 space-y-20;
+  }
+  
+}
