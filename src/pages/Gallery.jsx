@@ -11,6 +11,7 @@ const Gallery = () => {
     { id: 4, src: "/src/assets/images/img-9.jpg", title: "Tutoring" },
     { id: 5, src: "/src/assets/images/react.JPG", title: "Learning Computer" },
     { id: 6, src: "/src/assets/images/img-20.JPG", title: "Window of Change" },
+    //to add the addition images add below id 9 with proper src and title
     { id: 7, src: "/src/assets/images/about-img-4.JPG", title: "Playing" },
     { id: 8, src: "/src/assets/images/img-12.jpg", title: "Assembly" },
     { id: 9, src: "/src/assets/images/img-8.jpg", title: "Smiles" }

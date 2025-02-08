@@ -123,7 +123,7 @@ const OurProjects = () => {
           </div>
           <div className="flex justify-center">
             <div className="w-full max-w-md">
-              <img  src="/src/assets/images/img1.jpg" className="w-full h-[280px] sm:h-[300px] object-cover rounded-xl shadow-lg" 
+              <img  src="/src/assets/images/img1.JPG" className="w-full h-[280px] sm:h-[300px] object-cover rounded-xl shadow-lg" 
                 alt="Future Project" />
             </div>
           </div>

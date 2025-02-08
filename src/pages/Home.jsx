@@ -12,7 +12,7 @@ const Home = () => {
             </h2>
           </div>  
           <div className="w-24 h-1 bg-gradient-to-r from-blue-600 to-purple-600 mx-auto mb-6" />
-          <p className="text-gray-600 font-medium text-lg md:text-xl max-w-2xl mx-auto font-Noto">
+          <p className="text-gray-600 font-medium text-lg md:text-xl max-w-2xl mx-auto">
           LearnED is transforming lives in rural Nepal by providing access to quality education for 
           underprivileged children. We strive to create a brighter future for these communities by fostering
            a love of learning and equipping children with the skills they need to succeed.
